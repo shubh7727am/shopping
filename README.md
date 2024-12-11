@@ -7,10 +7,10 @@ Flutter app
 ## App Screenshots
 
 <p align="center">
-  <img src="App_ss/1.jpg" width="25%" />
-  <img src="App_ss/2.jpg" width="25%" />
-  <img src="App_ss/3.jpg" width="25%" />
-  <img src="App_ss/4.jpg" width="25%" />
+  <img src="App_ss/1.jpg" width="30%" />
+  <img src="App_ss/2.jpg" width="30%" />
+  <img src="App_ss/3.jpg" width="30%" />
+
 </p>
 
 
