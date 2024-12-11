@@ -1,16 +1,48 @@
-# shoping
 
-A new Flutter project.
+# Demo Task
 
-## Getting Started
+Flutter app 
 
-This project is a starting point for a Flutter application.
+## App Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img src="App_ss/1.png" width="30%" />
+  <img src="App_ss/2.png" width="30%" />
+  <img src="App_ss/3.png" width="30%" />
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## App Structure
+
+The app follows the **MVVM (Model-View-ViewModel)** architecture for modularity and scalability.
+
+```
+lib/
+│
+├── repo/
+│   ├── static_data.dart
+│   └── utils/
+│       ├── dimensions.dart
+│       └── local_strings.dart
+│
+├── View/
+│   └── widget/
+│       ├── available_colors.dart
+│       ├── carousel.dart
+│       ├── customer_rating.dart
+│       ├── info.dart
+│       ├── size_choice.dart
+│       └── product_page.dart
+│
+└── main.dart
+
+```
+
+
+### Prerequisites:
+- Dart version: 3.5.4
+- DevTools version: 2.37.3
+- Flutter version: 3.24.5 (Stable)
+
+---
+Developed by Shubham choudhary
